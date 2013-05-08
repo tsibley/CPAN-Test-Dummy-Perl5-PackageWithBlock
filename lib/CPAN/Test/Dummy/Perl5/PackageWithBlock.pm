@@ -11,15 +11,13 @@ __END__
 
 =head1 NAME
 
-CPAN::Test::Dummy::Perl5::PackageWithBlock - Blah blah blah
-
-=head1 SYNOPSIS
-
-  use CPAN::Test::Dummy::Perl5::PackageWithBlock;
+CPAN::Test::Dummy::Perl5::PackageWithBlock - A dummy distribution to test package-block statements in the CPAN ecosystem
 
 =head1 DESCRIPTION
 
-CPAN::Test::Dummy::Perl5::PackageWithBlock is
+CPAN::Test::Dummy::Perl5::PackageWithBlock is a distribution intended to test
+how various parts of CPAN/PAUSE handle C<package Foo::Bar { CODE }> statements
+when indexing.
 
 =head1 AUTHOR
 

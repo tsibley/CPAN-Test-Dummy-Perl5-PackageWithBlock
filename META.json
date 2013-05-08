@@ -1,5 +1,5 @@
 {
-   "abstract" : "Blah blah blah",
+   "abstract" : "A dummy distribution to test package-block statements in the CPAN ecosystem",
    "author" : [
       "Thomas Sibley <trs@bestpractical.com>"
    ],
@@ -46,6 +46,9 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.01"
+   "version" : "0.01",
+   "x_contributors" : [
+      "Thomas Sibley <tsibley@cpan.org>"
+   ]
 }
 
