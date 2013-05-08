@@ -1,0 +1,6 @@
+/CPAN-Test-Dummy-Perl5-PackageWithBlock-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
