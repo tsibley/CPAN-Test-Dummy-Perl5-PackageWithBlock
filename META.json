@@ -46,6 +46,17 @@
       }
    },
    "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/tsibley/CPAN-Test-Dummy-Perl5-PackageWithBlock/issues"
+      },
+      "homepage" : "https://github.com/tsibley/CPAN-Test-Dummy-Perl5-PackageWithBlock",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/tsibley/CPAN-Test-Dummy-Perl5-PackageWithBlock.git",
+         "web" : "https://github.com/tsibley/CPAN-Test-Dummy-Perl5-PackageWithBlock"
+      }
+   },
    "version" : "0.01",
    "x_contributors" : [
       "Thomas Sibley <tsibley@cpan.org>"
