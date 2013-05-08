@@ -3,7 +3,7 @@ use warnings;
 use 5.014_000;
 
 package CPAN::Test::Dummy::Perl5::PackageWithBlock {
-    our $VERSION = '0.01';
+    our $VERSION = '0.03';
     sub dummy { 0E0 }
 }
 

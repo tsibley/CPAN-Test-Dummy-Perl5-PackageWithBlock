@@ -57,7 +57,7 @@
          "web" : "https://github.com/tsibley/CPAN-Test-Dummy-Perl5-PackageWithBlock"
       }
    },
-   "version" : "0.01",
+   "version" : "0.03",
    "x_contributors" : [
       "Thomas Sibley <tsibley@cpan.org>"
    ]
