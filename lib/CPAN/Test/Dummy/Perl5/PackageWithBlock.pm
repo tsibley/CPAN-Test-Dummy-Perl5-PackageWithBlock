@@ -1,8 +1,15 @@
-package CPAN::Test::Dummy::Perl5::PackageWithBlock;
-
 use strict;
-use 5.008_005;
-our $VERSION = '0.01';
+use warnings;
+use 5.014_000;
+
+package CPAN::Test::Dummy::Perl5::PackageWithBlock {
+    our $VERSION = '0.01';
+    sub dummy { 0E0 }
+}
+
+package CPAN::Test::Dummy::Perl5::PackageWithBlock::AndVersion 0.02 {
+    sub dummy { 0E0 }
+}
 
 1;
 __END__
